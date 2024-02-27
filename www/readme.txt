@@ -1,0 +1,1 @@
+https://github.com/NiklasMerz/cordova-plugin-fingerprint-aio
